@@ -47,6 +47,7 @@ const App = () => {
           />
         ))}
       </ul>
+      <div>New</div>
     </div>
   );
 };
